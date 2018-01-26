@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="restblog">
+    <serverData>
+      <paths name="restblog">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/projects/RestBlog" local="$PROJECT_DIR$" web="/restblog" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
