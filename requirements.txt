@@ -12,7 +12,7 @@ django-formtools==2.1
 django-import-export==0.5.1
 django-redis==4.8.0
 django-reversion==2.0.10
-djangorestframework==3.7.1
+djangorestframework==3.11.2
 djangorestframework-jwt==1.11.0
 drf-extensions==0.3.1
 et-xmlfile==1.0.1
